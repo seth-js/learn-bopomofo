@@ -1,5 +1,10 @@
+@font-face {
+  font-family: Harmony;
+  src: url(font/HarmonyOS_Sans_SC_Regular.ttf);
+}
+
 body {
-  font-family: 'HarmonyOS Sans SC', sans-serif;
+  font-family: Harmony, sans-serif;
   background-color: #222;
   color: white;
   padding: 20px;
